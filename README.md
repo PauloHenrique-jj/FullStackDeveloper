@@ -1,2 +1,4 @@
-# FullStackDeveloper
-Este repositório foi criado para documentar minha evolução na programação por meio de projetos práticos. Tenho grande interesse na área de desenvolvimento Full Stack, com foco e especialização em Back-End.
+# Landing Page GTA: San Andreas
+
+Ao concluir o segundo módulo do curso de HTML5 e CSS3 do professor Gustavo Guanabara, decidi colocar em prática o que aprendi. Para isso, desenvolvi uma landing page inspirada no meu jogo favorito: GTA: San Andreas, um clássico que marcou a infância de muitos brasileiros — incluindo a minha.
+
